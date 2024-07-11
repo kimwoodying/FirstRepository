@@ -2,5 +2,7 @@ ls : 리스트
 cd 주소 : 들어가기
 mkdir : 폴더만들기
 cd .. : 상위폴더로 가기
-init : 저장소 만들기
-status :  Git 저장소의 상태를 보여주기
+git init : 저장소 만들기
+git status :  Git 저장소의 상태를 보여주기
+git add : git한테 파일 트래킹해달라고하기
+git commit : 버전으로 저장할거 모은거 버전으로만들기
